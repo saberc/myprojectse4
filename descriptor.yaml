@@ -6,8 +6,8 @@ components:
     - plugins/myprojectse2-plugin.yaml
 
   widgets:
-    - ui/wwwwidgets/house/tableWidget/house-table-widget-descriptor.yaml
-    - ui/wwwwidgets/house/detailsWidget/house-details-widget-descriptor.yaml
-    - ui/wwwwidgets/house/formWidget/house-form-widget-descriptor.yaml
+    - ui/widgets/house/tableWidget/house-table-widget-descriptor.yaml
+    - ui/widgets/house/detailsWidget/house-details-widget-descriptor.yaml
+    - ui/widgets/house/formWidget/house-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
