@@ -8,6 +8,6 @@ components:
   widgets:
     - ui/widgets/house/tableWidget/house-table-widget-descriptor.yaml
     - ui/widgets/house/detailsWidget/house-details-widget-descriptor.yaml
-    - ui/widgets/house/formWidget/house-form-widget-descriptor.yaml
+    - ui/widgets/house/formWidget/house1-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
